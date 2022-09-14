@@ -17,7 +17,7 @@ red = (255, 0, 0)
 paddleVel = 8
 
 
-# enum class for direction
+#enum class for direction
 class Direction(Enum):
     UP = 1
     DOWN = 2
